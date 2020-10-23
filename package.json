@@ -1,7 +1,7 @@
 {
-  "name": "faddist",
+  "name": "node-starter-rest-backend",
   "version": "1.0.0",
-  "description": "A ecommerce app for cosmetic genre",
+  "description": "A starter package",
   "main": "server.js",
   "scripts": {
     "server": "nodemon server.js",
@@ -17,7 +17,7 @@
     "faddist"
   ],
   "author": "Abu Sayeed Mondal",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/psayeed1990/node-starter-rest-backend.git/issues"
   },
